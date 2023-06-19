@@ -1,4 +1,8 @@
 ---
+## https://github.com/kannan975/NYUAD-2023-team5/tree/main/team5/classical-network
+
+Please note that my final contributions to the project can be found here, along with the rest of the team's work:
+
 This repository provides code for solving PF with Graph Neural Networks. In particular, the code can be used to reproduce the experimental results presented in the paper [Power Flow Balancing with Decentralized Graph Neural Networks](https://arxiv.org/abs/2111.02169).
 
 ---
