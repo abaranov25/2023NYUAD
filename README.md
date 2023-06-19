@@ -1,4 +1,3 @@
----
 ## Follow the link below!
 
 https://github.com/kannan975/NYUAD-2023-team5/tree/main/team5/classical-network
